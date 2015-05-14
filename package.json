@@ -1,0 +1,24 @@
+{
+  "name": "grunt-toga",
+  "version": "0.1.0",
+  "description": "Grunt plugin for Toga.",
+  "main": "tasks/toga.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/togajs/grunt-toga"
+  },
+  "keywords": [
+    "grunt",
+    "gruntplugin",
+    "toga"
+  ],
+  "author": "Shannon Moeller <me@shannonmoeller.com> (http://shannonmoeller.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/togajs/grunt-toga/issues"
+  },
+  "homepage": "https://github.com/togajs/grunt-toga"
+}
